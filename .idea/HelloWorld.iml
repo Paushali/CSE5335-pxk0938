@@ -105,6 +105,10 @@
     </content>
     <orderEntry type="jdk" jdkName="ruby-2.2.4-p230" jdkType="RUBY_SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="jquery" level="application" />
+    <orderEntry type="library" name="jquery-2.1.4" level="application" />
+    <orderEntry type="library" name="loader" level="application" />
+    <orderEntry type="library" name="canvasjs" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="actionmailer (v4.2.5.1, ruby-2.2.4-p230) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="actionpack (v4.2.5.1, ruby-2.2.4-p230) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="actionview (v4.2.5.1, ruby-2.2.4-p230) [gem]" level="application" />
@@ -115,7 +119,7 @@
     <orderEntry type="library" scope="PROVIDED" name="arel (v6.0.3, ruby-2.2.4-p230) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="binding_of_caller (v0.7.2, ruby-2.2.4-p230) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="builder (v3.2.2, ruby-2.2.4-p230) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="bundler (v1.11.2, ruby-2.2.4-p230) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="bundler (v1.13.6, ruby-2.2.4-p230) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="byebug (v9.0.6, ruby-2.2.4-p230) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="coffee-rails (v4.1.1, ruby-2.2.4-p230) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="coffee-script (v2.4.1, ruby-2.2.4-p230) [gem]" level="application" />
@@ -137,6 +141,7 @@
     <orderEntry type="library" scope="PROVIDED" name="minitest (v5.9.1, ruby-2.2.4-p230) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="multi_json (v1.12.1, ruby-2.2.4-p230) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="nokogiri (v1.6.8, ruby-2.2.4-p230) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="pg (v0.18.4, ruby-2.2.4-p230) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="pkg-config (v1.1.7, ruby-2.2.4-p230) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack (v1.6.4, ruby-2.2.4-p230) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack-test (v0.6.3, ruby-2.2.4-p230) [gem]" level="application" />
@@ -162,10 +167,6 @@
     <orderEntry type="library" scope="PROVIDED" name="tzinfo-data (v1.2016.7, ruby-2.2.4-p230) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="uglifier (v3.0.2, ruby-2.2.4-p230) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="web-console (v2.3.0, ruby-2.2.4-p230) [gem]" level="application" />
-    <orderEntry type="library" name="jquery" level="application" />
-    <orderEntry type="library" name="jquery-2.1.4" level="application" />
-    <orderEntry type="library" name="loader" level="application" />
-    <orderEntry type="library" name="canvasjs" level="application" />
   </component>
   <component name="RModuleSettingsStorage">
     <LOAD_PATH number="0" />
