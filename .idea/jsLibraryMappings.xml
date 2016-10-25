@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="JavaScriptLibraryMappings">
-    <file url="PROJECT" libraries="{canvasjs, jquery, jquery-2.1.4, loader}" />
+    <file url="PROJECT" libraries="{canvasjs, d3, d3.v3, d3plus, jquery, jquery-2.1.4, loader}" />
   </component>
 </project>
